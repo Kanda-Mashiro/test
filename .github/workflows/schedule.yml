@@ -9,4 +9,4 @@ jobs:
   test:
     runs-on: ubuntu-18.04
     steps:
-    - run: pwd
+    - run: sh test.sh
